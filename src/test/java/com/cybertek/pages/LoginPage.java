@@ -30,6 +30,7 @@ public class LoginPage {
         usernameInput.sendKeys(username);
         passwordInput.sendKeys(password);
         loginButton.click();
+        //last commit
     }
 
 }
